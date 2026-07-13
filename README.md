@@ -36,13 +36,17 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* <!--Nathan-->
-* <!--Felipe mendes-->
-* <!--Diogo-->
-* <!--Bea-->
-* <!--Isa-->
-* <!--Pedro-->
+
+* | Nathan Dias |
+* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
+* | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Seiji | Marcos Nobre |
+* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
+* |
 * | Geovana Leite | Gabrielly Santos
+
+
+
+
 
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
@@ -54,6 +58,12 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ## 📂 Projetos por Tema
 
+* **💈 Barbearia:** Nathan Dias
+* **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
+* **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
+* **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
+* **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
+* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.
 <!-- * **🍔 Hamburgueria:** Marcos, Samuel, Diego espaço do Nathan -->
 * | Gabriel L., Gabriele C., Maria M., Vinicius B.
 * | Gabriela L., Henrique S., Laís R., Rychard R.
